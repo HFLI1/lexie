@@ -23,16 +23,16 @@ repository               : "HFLI1/lexie"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "HAOFEI LI/Lexie"
+  avatar           : "profile.jpg"
+  name             : "Haofei Li/Lexie"
   pronouns         : "she/her"  
   bio              : "Ph.D. candidate in Workforce Development and Education at The Ohio State University"
   location         : "Columbus, OH"
   employer         : "The Ohio State University"
-  linkedin         : "https://www.linkedin.com/in/haofei-li-8b6127193/"
+  linkedin         : "haofei-li-8b6127193"
   email            : "li.15049@osu.edu" 
   
-# publication_category:
+publication_category:
   working:
     title: 'Journal Articles'
   conferences:
