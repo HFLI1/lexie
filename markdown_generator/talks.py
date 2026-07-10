@@ -64,7 +64,7 @@ def main(input_file, output_dir=None):
                 md += 'type: "' + talk_type + '"\n'
             else:
                 md += 'type: "Talk"\n'
-            md += "permalink: /talks/" + date + "-" + url_slug + "\n"
+            md += "permalink: /services/" + date + "-" + url_slug + "\n"
             if venue:
                 md += 'venue: "' + venue + '"\n'
             md += "date: " + date + "\n"

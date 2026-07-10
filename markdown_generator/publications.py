@@ -2,6 +2,7 @@
 # 
 # Takes a TSV / CSV of publications with metadata and converts them for use with [academicpages.github.io](academicpages.github.io). 
 # Can be called via the command prompt by using `python3 publications.py [filename]`.
+# If no filename is provided, it reads `publications.csv` in this directory.
 
 # Data format
 # 
@@ -62,7 +63,7 @@ def create_md(lines: list, layout: list):
             md += f"\n<a href='{item[layout.index('paper_url')]}'>Download paper here</a>\n"
         if len(str(item[layout.index('excerpt')])) > 5:
             md += f"\n{html_escape(item[layout.index('excerpt')])}\n"
-        md += f"\nRecommended citation: {item[layout.index('citation')]}"
+        md += f"\nRecommended citation: {item[layout.index('citation')]}\n"
         
         # Write the file
         md_filename = os.path.join("../_publications/", os.path.basename(md_filename))
@@ -103,13 +104,13 @@ def read(filename: str) -> tuple[list, list]:
     return lines, layout
 
 if __name__ == '__main__':
-    # Make sure a filename was given
-    if len(sys.argv) != 2:
+    # Use the local CSV by default, while still accepting an explicit filename.
+    if len(sys.argv) > 2:
         print('Usage: python3 publications.py [filename]', file=sys.stderr)
         sys.exit(EXIT_ERROR)
 
     # Make sure the filename is TSV or CSV
-    filename = sys.argv[1]
+    filename = sys.argv[1] if len(sys.argv) == 2 else 'publications.csv'
     if not (filename.endswith('.csv') or filename.endswith('.tsv')):
         print(f'Expected a TSV or CSV file, got {filename}', file=sys.stderr)
         sys.exit(EXIT_ERROR)    
