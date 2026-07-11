@@ -37,3 +37,21 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+body,
+.page,
+.page__content,
+.archive,
+.archive__item,
+.sidebar,
+.masthead,
+.greedy-nav,
+.site-title,
+.author__name,
+.author__bio,
+.author__urls,
+h1, h2, h3, h4, h5, h6,
+p, a, li, span, div {
+  font-family: "Times New Roman", Times, serif !important;
+}
+
