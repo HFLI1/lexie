@@ -34,8 +34,6 @@ Recognized graduate-level research engagement and academic development.
 **First-Class Merit Scholarship**
 Awarded for strong academic performance.
 
-**Xiaoji Second-Class Scholarship**
-Recognized academic achievement and student development.
 
 **Beijing Outstanding Student**
 Recognized academic performance, leadership, and service at the municipal level.

@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 ## [The Ohio State University College of Education and Human Ecology](https://ehe.osu.edu/)
-**Graduate Research Assistant (part-time)**
-*August 2024-Present | Columbus, OH*
+**Graduate Research Assistant (full-time)**
+*With Dr. Jay Plasman | August 2024-Present | Columbus, OH*
 
-I conduct education policy and workforce development research using large-scale longitudinal administrative and survey data. My work includes quantitative analysis, qualitative research, data management, literature reviews, and conference presentations. My current projects focus on career and technical education (CTE), workforce pathways, CTE credentialing, and educational equity.
+I conduct education policy and workforce development research using large-scale longitudinal administrative and survey data. My work includes quantitative analysis, qualitative research, data management, literature reviews, and conference presentations. Current projects focus on career and technical education (CTE), CTE credentialing, workforce pathways, and educational equity.
 
 ## [University of Pennsylvania Graduate School of Education](https://www.gse.upenn.edu/)
 **Graduate Research Assistant (part-time)**

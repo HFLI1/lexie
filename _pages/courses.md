@@ -64,28 +64,7 @@ This page lists selected coursework from my undergraduate, master's, and doctora
 
 ## Undergraduate Coursework
 **Central University of Finance and Economics**
-*B.A. in Translation with Finance and Economics*
-
-### Language, Translation, and Interpreting
-- Analytical Reading I-IV
-- Basic English Writing I-II
-- English Listening
-- Conversational English
-- English Speech
-- English Debating
-- Listening and Presenting
-- Sight Translation
-- Simultaneous Interpreting
-- Consecutive Interpreting
-- Translation Theory
-- Translation of Latest Texts of Finance and Economics
-- Translation of Classical Financial and Economic Texts
-- Liaison and Escort Interpreting
-- Chinese Rhetoric and Writing
-- Academic Writing
-- Introduction to Linguistics
-- Introduction to Literature
-- British History
+*B.A. in Business*
 
 ### Finance, Economics, Policy, and Data
 - Political Economics
@@ -107,3 +86,13 @@ This page lists selected coursework from my undergraduate, master's, and doctora
 - Explore the United Nations Sustainable Development Goals
 - Topics of International Organizations
 - Reform and Practice of WTO
+
+### Language, Translation, and Interpreting
+- Translation of Latest Texts of Finance and Economics
+- Translation of Classical Financial and Economic Texts
+- Chinese Rhetoric and Writing
+- Academic Writing
+- Introduction to Linguistics
+- Introduction to Literature
+- American History
+- British History
