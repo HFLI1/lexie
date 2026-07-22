@@ -7,6 +7,9 @@ author_profile: true
 
 ## 2026
 
+**Association for Public Policy Analysis and Management (APPAM)**
+"English learners' participation and credential attainment in Ohio's career and technical education programs"
+
 **Sustainability in Vocational Education and Training**
 Cologne, Germany
 "Technical Assessments and the Sustainability of Equitable Career Pathways in Secondary CTE: Evidence from Pennsylvania"
