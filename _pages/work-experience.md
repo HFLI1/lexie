@@ -29,8 +29,8 @@ Collected and organized student information using Microsoft tools and Adobe InDe
 
 Supported attorneys in anti-dumping and antitrust cases by reviewing case materials, organizing evidence, preparing legal documents, and tracking filing deadlines.
 
-## [New Oriental](https://www.neworiental.org/english/)
-**ESL Teacher (part-time)**
+## [New Oriental English School](https://english.xdf.cn/)
+**ESL Teacher for Business English (part-time)**
 *2022-2024 | Beijing, China*
 
 Taught English language courses and supported students' development in reading, writing, speaking, and test-preparation skills.
