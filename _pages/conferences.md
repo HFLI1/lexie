@@ -42,7 +42,7 @@ Denver, CO
 ## 2024
 
 **American Educational Research Association (AERA)**
-Philadelphia, PA
+Philadelphia, PA. *Fully funded through a research assistantship at CPRE.*
 
 **Association for Education Finance and Policy (AEFP)**
-Baltimore, MD
+Baltimore, MD. *Pre-doctoral fellowship recipient.*
