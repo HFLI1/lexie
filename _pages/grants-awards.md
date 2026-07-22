@@ -36,15 +36,15 @@ Recognized graduate-level research engagement and academic development.
 
 ## [Central University of Finance and Economics](https://en.cufe.edu.cn/)
 
-**[First-Class Merit Scholarship](https://en.cufe.edu.cn/)**
+**First-Class Merit Scholarship**
 Awarded for strong academic performance.
 
 
-**[Beijing Outstanding Student](https://english.beijing.gov.cn/)**
+**Beijing Outstanding Student**
 Recognized academic performance, leadership, and service at the municipal level.
 
-**[Chengwang Study Abroad Scholarship](https://en.cufe.edu.cn/)**
+**Chengwang Study Abroad Scholarship**
 Supported international study and academic development.
 
-**[Outstanding Student Leader Scholarship](https://en.cufe.edu.cn/)**
+**Outstanding Student Leader Scholarship**
 Recognized student leadership and service contributions.
