@@ -5,6 +5,11 @@ permalink: /grants-awards/
 author_profile: true
 ---
 
+## [Association for Public Policy Analysis and Management](https://www.appam.org/)
+
+**2026 Excellence Equity and Inclusion Fellowship**
+Selected by APPAM Diversity Committee and Policy Council, this two-year fellowship provides APPAM membership, conference funding, and opportunities for mentorship and professional networking. It supports emerging policy scholars as they develop their research.
+
 ## The Ohio State University
 
 **EHE Graduate Travel Grant**
