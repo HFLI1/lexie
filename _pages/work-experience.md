@@ -23,8 +23,20 @@ Supported Education Commons services by assisting students, faculty, and visitor
 
 Collected and organized student information using Microsoft tools and Adobe InDesign to support international student programming.
 
-## [Chang'an Law Firm](https://www.changanlawfirm.com/)
+## Chang'an Law Firm
 **Paralegal Assistant (internship)**
 *August 2021-June 2022 | Beijing, China*
 
 Supported attorneys in anti-dumping and antitrust cases by reviewing case materials, organizing evidence, preparing legal documents, and tracking filing deadlines.
+
+## [New Oriental](https://www.neworiental.org/english/)
+**ESL Teacher (part-time)**
+*2022-2024 | Beijing, China*
+
+Taught English language courses and supported students' development in reading, writing, speaking, and test-preparation skills.
+
+## Freelance
+**College Application Tutor (part-time)**
+*2022-2023 | Hybrid*
+
+Guided students in preparing application materials, including personal statements, resumes, school selection, and interview preparation.
