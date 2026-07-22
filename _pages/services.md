@@ -11,6 +11,12 @@ author_profile: true
 
 Support graduate student engagement, communication, and student-centered programming within the College of Education and Human Ecology.
 
+## Session Chair
+**Edward F. Hayes Advanced Research Forum**
+*2025*
+
+Facilitated the session by introducing presenters, keeping time, coordinating audience questions, and supporting smooth transitions between presentations.
+
 ## Reviewer
 **Comparative and International Education Society (CIES)**
 *2026*
