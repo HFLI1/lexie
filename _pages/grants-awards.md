@@ -7,44 +7,44 @@ author_profile: true
 
 ## [Association for Public Policy Analysis and Management](https://www.appam.org/)
 
-**2026 Excellence Equity and Inclusion Fellowship**
+**[2026 Excellence Equity and Inclusion Fellowship](https://www.appam.org/about-appam/awards/eeifellowship/)**
 Selected by APPAM Diversity Committee and Policy Council, this two-year fellowship provides APPAM membership, conference funding, and opportunities for mentorship and professional networking. It supports emerging policy scholars as they develop their research.
 
-## The Ohio State University
+## [The Ohio State University](https://www.osu.edu/)
 
-**EHE Graduate Travel Grant**
-College of Education and Human Ecology, The Ohio State University, 2025.
+**[EHE Graduate Travel Grant](https://u.osu.edu/ehegradstudenttravel/eligibility-guidelines/)**
+[College of Education and Human Ecology, The Ohio State University](https://ehe.osu.edu/), 2025.
 Supported conference travel and scholarly presentation as a graduate student researcher.
 
-## University of Pennsylvania
+## [University of Pennsylvania](https://www.upenn.edu/)
 
-**AEFP Pre-Doctoral Diversity Fellowship**
-Association for Education Finance and Policy, 2024.
+**[AEFP Pre-Doctoral Diversity Fellowship](https://aefpweb.org/pre-doc_fellowship)**
+[Association for Education Finance and Policy](https://aefpweb.org/), 2024.
 Selected for a fellowship supporting predoctoral scholars interested in education finance and policy research.
 
-**GAPSA Spring 2023 Professional Student Grant Award**
-Graduate and Professional Student Assembly, University of Pennsylvania, 2023.
+**[GAPSA Spring 2023 Professional Student Grant Award](https://www.gapsa.upenn.edu/individual-grants)**
+[Graduate and Professional Student Assembly, University of Pennsylvania](https://www.gapsa.upenn.edu/), 2023.
 Provided professional development funding for graduate and professional student activities.
 
-**Summer Internship Scholarship**
-University of Pennsylvania Graduate School of Education.
+**[Summer Internship Scholarship](https://careerservices.upenn.edu/gapsa-summer-internship-funding-program/)**
+[University of Pennsylvania Graduate School of Education](https://www.gse.upenn.edu/).
 Supported summer internship work related to education, policy, and professional development.
 
-**GSE Research Award**
-University of Pennsylvania Graduate School of Education.
+**[GSE Research Award](https://www.gse.upenn.edu/)**
+[University of Pennsylvania Graduate School of Education](https://www.gse.upenn.edu/).
 Recognized graduate-level research engagement and academic development.
 
-## Central University of Finance and Economics
+## [Central University of Finance and Economics](https://en.cufe.edu.cn/)
 
-**First-Class Merit Scholarship**
+**[First-Class Merit Scholarship](https://en.cufe.edu.cn/)**
 Awarded for strong academic performance.
 
 
-**Beijing Outstanding Student**
+**[Beijing Outstanding Student](https://english.beijing.gov.cn/)**
 Recognized academic performance, leadership, and service at the municipal level.
 
-**Chengwang Study Abroad Scholarship**
+**[Chengwang Study Abroad Scholarship](https://en.cufe.edu.cn/)**
 Supported international study and academic development.
 
-**Outstanding Student Leader Scholarship**
+**[Outstanding Student Leader Scholarship](https://en.cufe.edu.cn/)**
 Recognized student leadership and service contributions.
