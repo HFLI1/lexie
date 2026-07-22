@@ -15,7 +15,10 @@ Support graduate student engagement, communication, and student-centered program
 **Comparative and International Education Society (CIES)**
 *2026*
 
-Reviewed conference submissions for CIES 2026.
+**American Educational Research Association (AERA)**
+*2026*
+
+Reviewed conference submissions for CIES 2026 and AERA 2026.
 
 ## Vice President of Finance
 **Graduate School of Education, University of Pennsylvania**
